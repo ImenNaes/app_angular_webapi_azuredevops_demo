@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x5/r0pn88M/6sqtUL9JoE2ln0Fzagu5VsZam8M3ag/I=",
+  "Source": "app_webapi_angular_azuredevops_demo",
+  "BasePath": "_content/app_webapi_angular_azuredevops_demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
